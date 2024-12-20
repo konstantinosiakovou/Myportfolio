@@ -1,5 +1,4 @@
 {
-  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -28,8 +27,7 @@
     "web-vitals": "^2.1.4",
     "webpack": "^5.96.1"
   },
-  "scripts": {
-    "dev": "react-scripts start",
+  "scripts": {   
     "start": "react-scripts start",
     "predeploy": "npm run dev",
     "deploy": "gh-pages -d build",
